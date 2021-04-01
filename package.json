@@ -2,9 +2,9 @@
   "name": "trello-clone-server",
   "version": "1.0.0",
   "description": "",
-  "main": "dist/server.js",
+  "main": "build/server.js",
   "scripts": {
-    "start": "tsc && node dist/server.js"
+    "start": "tsc && node build/server.js"
   },
   "keywords": [],
   "author": "",
